@@ -1,3 +1,2 @@
 this is test demo file in local
-local updated
-second line
+This is from remote and I update it in Remote 
